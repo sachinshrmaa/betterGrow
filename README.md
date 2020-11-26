@@ -4,7 +4,7 @@ An open-source project for helping farmers grow better crops using  Data Science
 
 
 
-# Introduction
+## Introduction
 
 betterGrowth aims to makes use of technologies like the Internet of Things, cloud computing, Machine Learning, and Big Data to enable farmers to have more insights on the consequences of their actions and take a much better and informed decision on farming practices.
 
@@ -27,7 +27,6 @@ This is generally the database where all chunks of data from multiple sensors an
 - Fungal or insect infestation
 - Crop yield
  
-
 **Soil**
 
 - Physical condition
@@ -36,7 +35,6 @@ This is generally the database where all chunks of data from multiple sensors an
 - Moisture
 - Nutrients and more
  
-
 **Climate**
 
 - Humidity
