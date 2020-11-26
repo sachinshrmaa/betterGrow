@@ -4,6 +4,21 @@ An open-source project for helping farmers grow better crops using  Data Science
 
 
 
+## Technologies Used 
+
+- Django
+- React 
+- Tensor
+- PyTorch
+- Bootstrap
+- Python
+- JavaScript
+- REST Framework
+- Kaggle
+
+
+
+
 ## Contributing Workflow
 
 Here’s how we suggest you go about proposing a change to betterGrowth:
